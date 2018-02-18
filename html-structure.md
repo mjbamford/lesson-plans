@@ -8,6 +8,8 @@
 1. [Grumpy Cat skeletal HTML](./grumpy-cat.html)
 1. https://github.com/joshbuchea/HEAD
 1. https://validator.w3.org/
+1. https://developer.mozilla.org/en-US/docs/Web/HTML/Element
+
 ## Procedures
 Follow the content in [Materials (1)]( https://github.com/Ruegen/lesson-plans/blob/master/week-03/day-02.md)
 ### Direct Instruction
@@ -29,6 +31,8 @@ Run the world's smallest web server (explain the command line options)
 Describe typical directory structures for websites: index.html, images, styles, scripts, js, assets
 
 Validate the page using [Materials (4)](https://validator.w3.org/)
+
+Navigate and show MDN. Go through the list of HTML tags at [Materials (5)](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 
 ### Guided Practice
 1. Look up the MDN documentation for `<img>`. What attributes does it take?
